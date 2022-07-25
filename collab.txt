@@ -1,8 +1,5 @@
-<<<<<<< HEAD
 collab file uploaded by memosujit collab master branch
-=======
 collab file uploaded by collab master branch
 
 
 collab file uploaded by sujitpost master branch
->>>>>>> 7937949538f95af5d3949fc5743d3b46c0d5c114
